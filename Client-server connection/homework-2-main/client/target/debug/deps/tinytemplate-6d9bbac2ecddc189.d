@@ -1,0 +1,10 @@
+C:\Users\nikit\Desktop\My_code\homework-2\client\target\debug\deps\tinytemplate-6d9bbac2ecddc189.rmeta: C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\lib.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\compiler.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\error.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\instruction.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\syntax.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\template.rs
+
+C:\Users\nikit\Desktop\My_code\homework-2\client\target\debug\deps\tinytemplate-6d9bbac2ecddc189.d: C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\lib.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\compiler.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\error.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\instruction.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\syntax.rs C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\template.rs
+
+C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\lib.rs:
+C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\compiler.rs:
+C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\error.rs:
+C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\instruction.rs:
+C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\syntax.rs:
+C:\Users\nikit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinytemplate-1.2.1\src\template.rs:
